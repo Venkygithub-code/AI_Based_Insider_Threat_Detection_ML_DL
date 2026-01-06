@@ -43,7 +43,7 @@ Threat Alert / Normal Status
 ```
 
 
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
 * Python
 * Pandas, NumPy
@@ -52,7 +52,7 @@ Threat Alert / Normal Status
 * Jupyter Notebook
 
 
-## 📊 Output
+ 📊 Output
 
 * Threat status: **Detected / Normal**
 * Risk score (0–100)
