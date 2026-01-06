@@ -59,7 +59,7 @@ Threat Alert / Normal Status
 * Reason for alert (behavioral anomalies)
 
 
-## 👤 Author
+👤 Author
 
 **Venkatesh Gudikoti**
 AI / ML Enthusiast
