@@ -3,7 +3,7 @@ Insider Threat Detection using ML &amp; DL analyzes employee behavior logs such 
 
 
 
-# **Insider Threat Detection using Machine Learning & Deep Learning**
+# **AI_Based_Insider Threat Detection using Machine Learning & Deep Learning**
 
 ## 📌 Project Overview
 
