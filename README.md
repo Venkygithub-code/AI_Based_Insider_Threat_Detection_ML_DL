@@ -15,7 +15,6 @@ This project focuses on detecting **insider threats** by analyzing employee beha
 
 Traditional security systems struggle to detect insider threats because malicious activities often resemble normal behavior. The objective of this project is to build an AI-based system that can identify **suspicious deviations** in employee behavior and raise alerts before serious security incidents occur.
 
----
 
 ## 🧠 Solution Approach
 
@@ -25,11 +24,11 @@ Traditional security systems struggle to detect insider threats because maliciou
 * Combine ML and DL outputs into a unified **risk score**
 * Flag activities exceeding a defined threshold as potential threats
 
----
+
 
 ## 🏗️ System Architecture
 
-```
+
 Employee Activity Logs
         ↓
 Data Preprocessing & Feature Engineering
@@ -43,7 +42,6 @@ Risk Scoring Engine
 Threat Alert / Normal Status
 ```
 
----
 
 ## 🛠️ Technologies Used
 
@@ -53,7 +51,6 @@ Threat Alert / Normal Status
 * TensorFlow / Keras
 * Jupyter Notebook
 
----
 
 ## 📊 Output
 
@@ -61,14 +58,12 @@ Threat Alert / Normal Status
 * Risk score (0–100)
 * Reason for alert (behavioral anomalies)
 
----
-
 
 ## 👤 Author
 
 **Venkatesh Gudikoti**
 AI / ML Enthusiast
 
----
+
 
 
