@@ -1,8 +1,7 @@
 # Insider_Threat_Detection_ML_DL
 Insider Threat Detection using ML &amp; DL analyzes employee behavior logs such as login activity, file access, and device usage to detect suspicious actions. It uses a hybrid Isolation Forest and Autoencoder approach to identify anomalies, generate risk scores, and alert security teams with minimal false positives.
-Good question 👍
 
----
+
 
 # **Insider Threat Detection using Machine Learning & Deep Learning**
 
@@ -10,7 +9,7 @@ Good question 👍
 
 This project focuses on detecting **insider threats** by analyzing employee behavior patterns such as login times, file access frequency, device usage, and access locations. Since insider attacks often come from authorized users and labeled attack data is limited, the system uses **anomaly detection** with a hybrid **Machine Learning and Deep Learning** approach.
 
----
+
 
 ## 🎯 Problem Statement
 
