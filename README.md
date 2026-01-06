@@ -54,14 +54,14 @@ Threat Alert / Normal Status
 
  📊 Output
 
-* Threat status: **Detected / Normal**
+* Threat status: Detected / Normal
 * Risk score (0–100)
 * Reason for alert (behavioral anomalies)
 
 
 👤 Author
 
-**Venkatesh Gudikoti**
+Venkatesh Gudikoti
 AI / ML Enthusiast
 
 
